@@ -1,0 +1,29 @@
+#
+# NoraExternalConnector Hosts list (update:2020.06.20)
+#
+JP1YDS	katori.mydns.jp		# 香取430	
+JP1YJL	jp1yjl.ddns.net		# 逗子430		
+JP1YJT	jp1yjt.mydns.jp		# 八街430:A/1200:B			
+JP1YJZ	jp1yjz.mydns.jp		# つくば430
+JP1YKR	111.64.156.189		# 堂平山430		
+JP1YKZ	jp1ykz.mydns.jp		# 文京430	
+JP1YLF	jp1ylf.mydns.jp		# 牛久430	
+JP1YLJ	jp1ylj.mydns.jp		# 結城430
+JP1YLM	narita.mydns.jp		# 成田430			
+JP1YFY	183.177.190.161		# 船橋430
+JP2YHN	125.175.176.238		# 阿久比430	
+JP4YDD	jp4ydd.mydns.jp		# 津山430
+JP4YEB	jp4yeb.mydns.jp		# 廿日市430
+JP6YHS	jp6yhs.mydns.jp		# 福岡430
+JP6YHU	124.41.83.45		# 都城430	
+JP6YIC	124.41.81.242		# 別府430
+JP6YID	fb33.mydns.jp		# 糸島430	
+JP7YET	126.77.160.194		# 花巻430
+JP7YEW	jp7yew.mydns.jp		# 福島伊達430
+JP7YFB	jp7yfb.mydns.jp		# 仙台青葉430
+JP7YFF	jp7yff.mydns.jp		# 福島医大430
+JP7YFI	jp7yfi.mydns.jp		# 由利本荘430	
+JP8YEI	59.157.4.151		# 稚内430	
+JP9YEP	jp9yep.mydns.jp		# 中能登430	
+JP0YEA	jp0yea.mydns.jp		# 信州中野430
+#JP3YIX	jp3yix.mydns.jp		# 京都南430
